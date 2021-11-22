@@ -1,0 +1,45 @@
+
+#tempMax{
+    color: red;
+}
+
+#tempMin{
+    color: blue;
+}
+
+#forecast{
+    color: purple;
+}
+
+#humidity{
+    color: darkgrey;
+}
+
+
+.tempMax{
+    margin:2vw;
+    font-size: 2vw;
+    font-weight: bold;
+}
+.tempMin{
+    margin: 2vw;
+    font-size: 2vw;
+    font-weight: bold;
+}
+.forecast{
+    margin: 2vw;
+    font-size: 2vw;
+    font-weight: bold;
+}
+.humidity{
+    margin: 2vw;
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+body{
+    margin: 5vw;
+    background-image: url('../images/clearSky.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
